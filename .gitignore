@@ -1,0 +1,12 @@
+# 编译产物
+*.exe
+
+# 备份与临时文件
+*.bak
+*.tmp
+~$*
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
